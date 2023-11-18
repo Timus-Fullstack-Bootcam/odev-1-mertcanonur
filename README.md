@@ -17,7 +17,7 @@
 15. Object destructuring nedir örnekle açıklayınız
 16. 2 elemanlı bir objeyi 6 farklı şekilde oluşturunuz
 17. 2 elemanlı bir objenin key ve value değerlerinin karakter sayısı ile 2 farklı döngü
-methodu kullanarak yeni bir obje oluşturunuz
+methodu kullanarak yeni bir obje oluşturunuz.
 18. Cookie, local storage ve session storage farkını tablo yapınız
 19. asenkron ve senkron işlem farkı nedir
 20. promise nedir ve neden ihtiyaç duyarız
